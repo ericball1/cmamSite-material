@@ -19,6 +19,10 @@ html, body {
   margin: 0;
   padding: 0;
 }
+.mdl-card {
+  padding-left: 8px;
+  padding-top: 4px;
+}
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
 }
